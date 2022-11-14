@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 🔭 I’m currently working on ft_printf
+![image](https://acegif.com/wp-content/uploads/cat-typing-11.gif)
+### 🌱 I’m currently learning at 42BCN
+### 
 <!--
 **worthy1973/worthy1973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
