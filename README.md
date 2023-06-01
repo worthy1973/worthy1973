@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on get_next_line
+### 🔭 I’m currently working on minitalk
 ### ![image](https://acegif.com/wp-content/uploads/cat-typing-11.gif)
 ### 🌱 I’m currently learning at 42BCN
 ### 
